@@ -38,6 +38,10 @@ android {
         enable = true
     }
 
+    buildFeatures{
+        viewBinding = true
+    }
+
 }
 
 dependencies {

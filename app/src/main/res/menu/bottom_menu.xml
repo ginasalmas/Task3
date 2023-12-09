@@ -11,4 +11,10 @@
         android:id="@+id/button_favorite"
         android:title="Favorite"
         android:icon="@drawable/ic_love_fill"/>
+
+    <item
+        android:id="@+id/button_hehe"
+        android:title="Hehe :)"
+        android:icon="@drawable/ic_hehe"/>
+
 </menu>
