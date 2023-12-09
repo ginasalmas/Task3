@@ -11,6 +11,12 @@
         <item>Bengal</item>
         <item>Scottish Fold</item>
         <item>Sphynx</item>
+        <item>Ragdoll</item>
+        <item>Abyssinian</item>
+        <item>Birman</item>
+        <item>British Shorthair</item>
+        <item>Exotic Shorthair</item>
+        <item>Norwegian Forest</item>
     </string-array>
 
     <string-array name="data_description">
@@ -20,6 +26,12 @@
         <item>Dengan bulu yang berkilau dan motif belang harimau yang eksotis, kucing Bengal adalah kucing yang memikat. Mereka memiliki tubuh yang atletis, suka bermain air, dan memiliki sifat yang aktif. Kucing Bengal cenderung memiliki energi yang tinggi dan menyukai tantangan mental.</item>
         <item>Kucing Scottish Fold mendapatkan namanya dari telinganya yang melipat ke depan, memberikan penampilan yang unik. Mereka memiliki bulu yang bervariasi, baik panjang maupun pendek. Scottish Fold cenderung menjadi kucing yang tenang, ramah, dan dapat membentuk ikatan yang erat dengan pemiliknya.</item>
         <item>Kucing Sphynx terkenal karena kulitnya yang tanpa bulu atau memiliki bulu yang sangat tipis. Meskipun tampak tidak berbulu, Sphynx sebenarnya memiliki sensasi lembut saat disentuh. Kucing ini membutuhkan perhatian ekstra terkait suhu tubuh mereka dan cenderung menjadi kucing yang hangat dan dekat dengan pemiliknya.</item>
+        <item>Ragdoll memiliki tubuh yang besar, bulu lebat, dan mata biru besar. Mereka dikenal sebagai kucing yang santai dan suka dilakukan oleh pemiliknya, seolah-olah mereka adalah boneka yang lemas. Ragdoll adalah kucing yang ramah dan mudah beradaptasi dengan lingkungan rumah.</item>
+        <item>Abyssinian adalah kucing yang energik, lincah, dan memiliki bulu yang pendek dan halus. Warna bulu yang cerah dan motif ticking membuat Abyssinian menarik perhatian. Mereka adalah kucing yang cerdas dan suka bermain, cocok untuk pemilik yang aktif.</item>
+        <item>Birman dikenal dengan bulu panjang dan mata biru intens. Mereka memiliki tubuh yang kokoh dan sikap yang tenang. Birman adalah kucing yang ramah dan suka berinteraksi dengan orang lain. Bulu mereka membutuhkan perawatan rutin.</item>
+        <item>British Shorthair memiliki tubuh yang bulat dan kompak, dengan bulu yang lebat dan padat. Mereka memiliki kepala yang bulat dengan telinga kecil dan mata bundar. British Shorthair adalah kucing yang tenang, ramah, dan mudah diurus.</item>
+        <item>Exotic Shorthair adalah versi berbulu pendek dari Persian. Mereka memiliki wajah pesek yang imut dan bulu yang lebat. Exotic Shorthair adalah kucing yang ramah dan cocok untuk pemilik yang mencari kucing berbulu pendek dengan penampilan yang mirip dengan Persia.</item>
+        <item>Norwegian Forest dikenal dengan bulu tebal, ekor panjang, dan tampilan yang kuat. Mereka adalah kucing yang tangguh dan cocok untuk kehidupan luar ruangan. Norwegian Forest memiliki sifat yang ramah dan cerdas.</item>
     </string-array>
 
     <integer-array name="data_photo">
@@ -29,6 +41,12 @@
         <item>@drawable/bengal</item>
         <item>@drawable/scottish_fold</item>
         <item>@drawable/sphynx</item>
+        <item>@drawable/ragdoll</item>
+        <item>@drawable/abyssinian</item>
+        <item>@drawable/birman</item>
+        <item>@drawable/british_shorthair</item>
+        <item>@drawable/exotic_shorthair</item>
+        <item>@drawable/norwegian_forest</item>
     </integer-array>
 
 </resources>
